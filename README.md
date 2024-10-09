@@ -25,7 +25,7 @@
 
 <details>
     <summary>:zap: Github Stats</summary>
-    <img align="left" alt="ElisabethJoan's Github Stats" src="https://github-readme-stats-theta-tan.vercel.app/api/top-langs/?username=ElisabethJoan&layout=compact&langs_count=8&hide=matlab,html,css,java,c%23" />
+    <img align="left" alt="ElisabethJoan's Github Stats" src="https://github-readme-stats-theta-tan.vercel.app/api/top-langs/?username=ElisabethJoan&layout=compact&langs_count=8&hide=matlab,html,css,java,c%23&exclude_repo=github-readme-stats,CAB230-Week-8,IFB102-Assessment,CAB230-Week-9,CAB201-Assessment,CAB230-Frontend,CAB230-Backend,MXB103-Group-Project,CAB320-Assessment-1,CAB320-Assessment-2,CAB302-Assessment,EGB339-Team-Assessment-1,EGB339-Team-Assessment-2,CAB420,CAB301_Assessment,CAB420_2,CAB432-Assessment-1,CAB432_Assessable_Prac_1,IFB398-IFB399,CAB432_Assessment_2" />
 </details>
 
 <br />
